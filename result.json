@@ -1,0 +1,8 @@
+{
+    "target": "google.com",
+    "ip_address": "142.250.203.142",
+    "open_ports": [
+        80,
+        443
+    ]
+}
